@@ -1,6 +1,3 @@
-# frogdor_79
-A 75%-ish mechanical keyboard with a rotary encoder.
-
 ### I provide this keyboard without liability and without any guarantees regarding functionality, as expressed in the Creative Commons license under which all of these PCBs are licensed.
 
 KiCad and Fusion360 files are included 

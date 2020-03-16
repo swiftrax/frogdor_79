@@ -1,6 +1,8 @@
 # frogdor_79
-A 75ish% mechanical keyboard with a rotary encoder.
-KiCad and Fusion360 files are included
+A 75%-ish mechanical keyboard with a rotary encoder.
+
+KiCad and Fusion360 files are included 
+
 QMK Can be found in my fork
 
 Supported Layouts

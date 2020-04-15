@@ -17,7 +17,7 @@ QMK Can be found in my fork
 
 [M3 Screws](https://www.mcmaster.com/93070a057) 1 pack 
 
-Reccomended Manufacturers for cases: **Ponoko for Acrylic, SendCutSend for Metal** \n
+Reccomended Manufacturers for cases: **Ponoko for Acrylic, SendCutSend for Metal** 
 
 Plate x 1 3mm Acrylic 
 

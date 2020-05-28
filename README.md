@@ -11,6 +11,8 @@ QMK Can be found in my fork
 
 # Images
 [Imgur Album](https://imgur.com/a/08Liv0p)
+![PCB Top](https://github.com/swiftrax/frogdor_79/blob/master/KiCad/Renders/top.svg)
+![PCB Bottom](https://github.com/swiftrax/frogdor_79/blob/master/KiCad/Renders/bottom.svg)
 
 # Case
 [M3 Spacers](https://www.mcmaster.com/94868a162) x 4 
